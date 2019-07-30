@@ -1,0 +1,30 @@
+{
+  "name": "apollo-server-express-example",
+  "version": "1.0.0",
+  "description": "Graphql Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xx4159/apollo-server-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xx4159/apollo-server-express/issues"
+  },
+  "homepage": "https://github.com/xx4159/apollo-server-express#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.8.0",
+    "express": "^4.17.1",
+    "graphql": "^14.4.2"
+  },
+  "engines": {
+    "node": ">=12.7.0",
+    "npm": ">=6.10.0"
+  }
+}
