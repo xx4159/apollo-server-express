@@ -22,7 +22,7 @@
     "apollo-server-express": "^2.7.2",
     "express": "^4.17.1",
     "graphql": "^14.4.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "engines": {
     "node": ">=12.7.0",
