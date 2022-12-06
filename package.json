@@ -20,7 +20,7 @@
   "homepage": "https://github.com/xx4159/apollo-server-express#readme",
   "dependencies": {
     "apollo-server-express": "^2.7.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "graphql": "^14.4.2",
     "node-fetch": "^2.6.0"
   },
